@@ -96,7 +96,7 @@ async def start_command(client: Client, message: Message):
              InlineKeyboardButton('🧿movie group🧿', url='https://t.me/cinema_hut_group'),
             InlineKeyboardButton('📥New Release Channel📥', url='https://t.me/+v22JUD0CtGg3MDQ1')
             ],[
-            InlineKeyboardButton('report bugs', url='https://t.me/AV_BOTS_Support')
+            InlineKeyboardButton('🦠report any bugs🦠', url='https://t.me/AV_BOTS_Support')
                 ]
             ]
         )
