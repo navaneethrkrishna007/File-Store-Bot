@@ -39,12 +39,13 @@ I Guess This Will Be Usefull For Many People.....😇.
 ### Setup
 
 - Add the bot to Database Channel with all permission
-- Add bot to ForceSub channel as Admin with Invite Users via Link Permission if you enabled ForceSub 
+- Add bot to ForceSub channel as Admin with Invite Users via Link Permission if you enabled ForceSub
 
-##
-### Installation
-#### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vaisakh9526574096/File-Sharing-Bot)</br>
+# Deployment To Heroku
+<p align="center">
+<a href="https://heroku.com/deploy?template=https://github.com/navaneethrkrishna007/File-Store-Bot"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+</p>
+
 <a href="https://youtu.be/LCrkRTMkmzE">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
