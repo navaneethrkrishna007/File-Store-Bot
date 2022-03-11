@@ -43,7 +43,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 # Deployment To Heroku
 <p align="center">
-<a href="https://heroku.com/deploy?template=https://github.com/navaneethrkrishna007/File-Store-Bot"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fnavaneethrkrishna007%2FFile-Store-Bot%2Fblob%2Fmain%2FREADME.md&template=https%3A%2F%2Fgithub.com%2Fnavaneethrkrishna007%2FFile-Store-Bot"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 </p>
 
 <a href="https://youtu.be/LCrkRTMkmzE">
